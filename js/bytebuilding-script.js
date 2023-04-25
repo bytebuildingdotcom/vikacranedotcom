@@ -3,7 +3,7 @@ function sendContactEmail() {
   var subject = document.getElementById('bb-contact-subject');
   var message = document.getElementById('bb-contact-message');
 
-  var email = 'bytebuilding@gmail.com';
+  var email = 'vacrane94@gmail.com';
 
    message.value = message.value + '%0D%0A%0D%0A' + ',' + name.value;
 
