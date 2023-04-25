@@ -59,9 +59,7 @@ a {
 }
 
 .bb-content {
-	max-width: 90vw;
-	margin-left: auto;
-    margin-right: auto;
+	
 }
 
 @media screen and (max-width: 600px) {
