@@ -1,5 +1,5 @@
 html, body {
-    font-family: Verdana,sans-serif;
+    font-family: Tahoma,sans-serif;
     font-size: 15px;
     line-height: 1.5;
 }
@@ -170,7 +170,6 @@ a {
     }
 }
 
-
 .bb-hover-card {
     height: 15rem;
 	box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
@@ -187,8 +186,6 @@ a {
 .bb-hover-card-opacity {
     opacity: 0.60;
 }
-
-
 
 .bb-list-box {
     width: 33.333%;
